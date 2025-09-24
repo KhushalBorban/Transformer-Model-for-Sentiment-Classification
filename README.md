@@ -16,6 +16,7 @@ Contains short financial news statements annotated with sentiment labels (Positi
 Widely used for benchmarking sentiment classification in finance.
 
 **Implementation**
+
 Models
 Custom Transformer
 Implemented scaled dot-product attention, positional encoding, and multi-head attention from scratch.
