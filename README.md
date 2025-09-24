@@ -35,3 +35,15 @@ Model	Accuracy	Precision-Recall Balance	Notes
 Custom Transformer	73.28%	Moderate	From-scratch implementation
 PyTorch TransformerEncoder	77.89%	Improved precision	Better generalization
 BERT (Frozen Encoder)	81.88%	Balanced	Best trade-off between accuracy & recall
+
+**Applications**
+
+Financial news & report analysis
+Automated stock sentiment monitoring
+NLP-powered decision support in finance
+
+**References**
+
+Finance PhraseBank Dataset
+Attention Is All You Need (Vaswani et al., 2017)
+BERT: Pre-training of Deep Bidirectional Transformers (Devlin et al., 2019)
