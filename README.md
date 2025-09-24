@@ -29,6 +29,7 @@ Fine-tuned classification head for sentiment detection.
 Achieved highest accuracy (81.88%) with balanced precision-recall.
 
 **Results**
+
 Model	Accuracy	Precision-Recall Balance	Notes
 Custom Transformer	73.28%	Moderate	From-scratch implementation
 PyTorch TransformerEncoder	77.89%	Improved precision	Better generalization
